@@ -7,11 +7,9 @@
 
 # DBSCoinnectify  
 
-![DBSCoinnectify Logo](https://via.placeholder.com/150x50?text=DBSCoinnectify)  
 
 A lightweight, user-friendly crypto-banking web application for managing simulated cryptocurrency transactions. Built with Django, SQLite3, and real-time data from CoinGecko API.  
 
-**Live Demo**: [Netlify Deployment](https://dbscoinnectify.netlify.app/)  
 
 ---
 
@@ -99,7 +97,6 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 ## 🙏 Credits  
-- **Lecturer**: Dr. Hamidreza Khaleghzadeh  
-- **Developer**: Saeed Anwar (20029527)  
+- **Developer**: Nomann Ali 
 - **API**: [CoinGecko](https://www.coingecko.com/api)  
 ```
