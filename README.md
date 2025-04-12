@@ -5,7 +5,6 @@
 
 ### **README.md**  
 
-```markdown
 # DBSCoinnectify  
 
 ![DBSCoinnectify Logo](https://via.placeholder.com/150x50?text=DBSCoinnectify)  
