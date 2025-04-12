@@ -73,7 +73,7 @@ A lightweight, user-friendly crypto-banking web application for managing simulat
 *User dashboard showing balances, transaction history, and action buttons*  
 
 ### Crypto Converter  
-![Converter](https://github.com/user-attachments/assets/3785a51a-fad2-423f-aff6-a84ce9d421a8)
+![Realtime Crypto to Fiat Currency Converter](https://github.com/user-attachments/assets/5b7e2a87-3150-41e6-af2a-7e7f9974b16a)
 *Real-time conversion tool with dropdown menus for crypto/fiat selection*  
 
 ---
